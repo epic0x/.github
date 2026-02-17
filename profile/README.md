@@ -1,4 +1,6 @@
-## @epic-archives
+## @epic0x
+
+> epic AIxWeb3 projects
 
 Submit new repos by opening an issue [here](https://github.com/epic-archives/.github/issues)
 <!--
